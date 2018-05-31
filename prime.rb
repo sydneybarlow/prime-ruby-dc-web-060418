@@ -4,7 +4,7 @@ counter = 1
 n =
 
 def prime?(x)
-  if x < 0
+  if x < 2 
     false 
 #  elsif n % x == 0
 #    false
