@@ -16,6 +16,5 @@ def prime?(x)
   end
 end  
 
-# (2..(x -1)).to_a
+# (2..(x -1)).to_a.each
  
-#name = [1,2,3,4,5]
