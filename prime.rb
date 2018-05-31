@@ -16,6 +16,6 @@ def prime?(x)
   end
 end  
 
-# (2..(x -1)).to_prime(x)
+# (2..(x -1)).to_a
  
 #name = [1,2,3,4,5]
