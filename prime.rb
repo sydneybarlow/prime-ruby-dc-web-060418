@@ -16,4 +16,6 @@ def prime?(x)
   end
 end  
 
- (2..-=x)
+ (2..(x -1))
+ 
+ array = [1,2,3,4,5]
