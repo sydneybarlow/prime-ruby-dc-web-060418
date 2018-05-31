@@ -1,7 +1,7 @@
 require 'benchmark'
 
 counter = 1
-n = gets.to_i
+n =
 
 def prime?(x)
   if x < 0
