@@ -16,5 +16,7 @@ def prime?(x)
   end
 end  
 
-# (2..(x -1)).to_a.each
+(2..(x -1)).to_a.each do |num|
+  if x % 2 
+end   
  
