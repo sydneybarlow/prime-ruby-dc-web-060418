@@ -17,6 +17,8 @@ def prime?(x)
 end  
 
 (2..(x -1)).to_a.each do |num|
-  if x % 2 
+  if x % num == 0 
+    return false 
+  end   
 end   
  
