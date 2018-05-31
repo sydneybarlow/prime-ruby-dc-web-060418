@@ -13,12 +13,13 @@ def prime?(x)
 #    true
   else
     (2..(x -1)).to_a.each do |num|
-  if x % num == 0 
-    return false 
-  end  
-end  
+      if x % num == 0 
+        return false 
+      end  
+    end 
+    true 
+  end
 end
-end  
 
  
  
