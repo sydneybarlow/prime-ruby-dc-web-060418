@@ -16,6 +16,6 @@ def prime?(x)
   end
 end  
 
- (2..(x -1))
+# (2..(x -1)).to_prime(x)
  
- array = [1,2,3,4,5]
+#name = [1,2,3,4,5]
