@@ -16,5 +16,3 @@ def prime?(x)
   end
 end  
 
-#(x/1) && (x / x)
-#    counter =+ 1
