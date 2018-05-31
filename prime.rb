@@ -11,7 +11,7 @@ def prime?(x)
 #    counter =+ 1
 #    true
   else
-    (2..(x -1)).to_a.each do |num|
+ arr=    (2..(x -1)).to_a.each do |num|
       if x % num == 0 
         return false 
       end  
