@@ -16,3 +16,4 @@ def prime?(x)
   end
 end  
 
+ (2..-=x)
