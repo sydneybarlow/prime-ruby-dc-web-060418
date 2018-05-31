@@ -1,6 +1,7 @@
 require 'benchmark'
 
 counter = 1
+n = 
 
 def prime?(x)
   if x < 0
